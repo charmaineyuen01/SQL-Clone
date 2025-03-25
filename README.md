@@ -1,4 +1,5 @@
 Project Overview
+
 This project is a SQL Clone, emulating the core functionalities of a SQL database, using C++. It allows users to manage the database (obtain desired information, insert new data, update data, remove data) by inserting SQL-like commands. A variety of fundamental data structures and algorithms are used to handle data storage and manipulation. 
 
 ---
